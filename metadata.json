@@ -1,0 +1,8 @@
+{
+  "name": "VigoRun - Pro Training & Trails",
+  "description": "Una aplicación premium para corredores que combina seguimiento GPS, planes de entrenamiento personalizados por IA y las mejores rutas de Vigo.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
