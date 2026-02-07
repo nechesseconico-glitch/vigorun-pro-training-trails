@@ -1,6 +1,5 @@
 
-import React, { useState, useEffect } from 'react';
-import Navigation from './components/Navigation';
+import React, { useState, useEffect } from 'react';;
 import Dashboard from './components/Dashboard';
 import RunTracker from './components/RunTracker';
 import RoutesView from './components/RoutesView';
